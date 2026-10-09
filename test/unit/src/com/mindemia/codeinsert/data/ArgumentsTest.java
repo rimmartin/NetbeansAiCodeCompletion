@@ -5,6 +5,9 @@
 package com.mindemia.codeinsert.data;
 
 
+import main.java.com.mindemia.codeinsert.data.Method;
+import main.java.com.mindemia.codeinsert.data.Parameter;
+import main.java.com.mindemia.codeinsert.data.Arguments;
 import com.fasterxml.jackson.databind.ObjectMapper;
 import org.junit.Test;
 import static org.junit.Assert.*;

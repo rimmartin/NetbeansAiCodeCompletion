@@ -4,6 +4,8 @@
  */
 package com.mindemia.codeinsert.tools.gitpatch;
 
+import main.java.com.mindemia.codeinsert.tools.gitpatch.PatchParser;
+import main.java.com.mindemia.codeinsert.tools.gitpatch.GitPatch;
 import java.util.List;
 import org.junit.After;
 import org.junit.AfterClass;

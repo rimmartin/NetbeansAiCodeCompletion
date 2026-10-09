@@ -4,10 +4,11 @@
  */
 package com.mindemia.codeinsert.tools;
 
+import main.java.com.mindemia.codeinsert.tools.ToolJsonBuilder;
 import com.fasterxml.jackson.databind.node.ArrayNode;
 import com.fasterxml.jackson.databind.node.ObjectNode;
-import com.mindemia.codeinsert.data.GitPatchResponse;
-import com.mindemia.codeinsert.data.InsertCodeToolCall;
+import main.java.com.mindemia.codeinsert.data.GitPatchResponse;
+import main.java.com.mindemia.codeinsert.data.InsertCodeToolCall;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;

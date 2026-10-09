@@ -4,8 +4,9 @@
  */
 package com.mindemia.codeinsert;
 
+import main.java.com.mindemia.codeinsert.ResponseParser;
 import com.fasterxml.jackson.core.JsonProcessingException;
-import com.mindemia.codeinsert.data.AIResponse;
+import main.java.com.mindemia.codeinsert.data.AIResponse;
 import org.junit.After;
 import org.junit.AfterClass;
 import org.junit.Before;
